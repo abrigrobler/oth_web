@@ -38,7 +38,8 @@ const Hero = () => {
         `}
       >
         <Heading variant="hero">
-          Stellenbosch food and drink specials app developed by local students.
+          Stellenbosch food and drink specials app - support our local
+          restaurants on a budget.
         </Heading>
         <Heading
           variant="main"
